@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniruddha</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddha-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddha-chaudhari" /> </p>
 
 - 🌱 I’m currently learning **about machine learning and about genAI**
 
