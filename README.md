@@ -1,21 +1,141 @@
-<h1 align="center">Hi 👋, I'm Aniruddha</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddha-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddha-chaudhari" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning  and **intrested in genAI**
+```text
+ █████╗ ███╗   ██╗██╗██████╗ ██╗   ██╗██████╗ ██████╗ ██╗  ██╗ █████╗ 
+██╔══██╗████╗  ██║██║██╔══██╗██║   ██║██╔══██╗██╔══██╗██║  ██║██╔══██╗
+███████║██╔██╗ ██║██║██████╔╝██║   ██║██║  ██║██║  ██║███████║███████║
+██╔══██║██║╚██╗██║██║██╔══██╗██║   ██║██║  ██║██║  ██║██╔══██║██╔══██║
+██║  ██║██║ ╚████║██║██║  ██║╚██████╔╝██████╔╝██████╔╝██║  ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aniruddha2704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddha2704" height="30" width="40" /></a>
-<a href="https://kaggle.com/aniruddhachaudhari27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aniruddhachaudhari27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aniruddha-chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniruddha-chaudhari" height="30" width="40" /></a>
-</p>
+### `developer // builder // professional rabbit-hole explorer`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=building+things+on+the+internet;web+%2F+ai+%2F+games+%2F+experiments;ship+%E2%86%92+break+%E2%86%92+learn+%E2%86%92+repeat" alt="Typing SVG" />
 
+</div>
 
+```text
+┌─ ~/aniruddha ──────────────────────────────────────────────────────┐
+│                                                                   │
+│  > whoami                                                         │
+│  Aniruddha Chaudhari                                              │
+│                                                                   │
+│  > current_mode                                                   │
+│  building products, experimenting with AI, and chasing ideas      │
+│  that are slightly more complicated than they needed to be.       │
+│                                                                   │
+│  > status                                                         │
+│  [██████████████████░░] shipping...                               │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aniruddha-chaudhari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aniruddha-chaudhari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha-chaudhari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## `> ls ./featured`
+
+### `01 / VANTAGE ZERO` — hardware buildability intelligence
+
+```text
+ supplier pages ──► collectors ──► normalize ──► validate ──► postgres
+                       ▲                                │
+                       └──────── self-heal loop ◄──────┘
+```
+
+A supply-chain intelligence system that answers a deceptively simple question for hardware teams: **how many units can we actually build today, and which component stops us?**
+
+Tracks distributor/manufacturer stock, price breaks, lead times and lifecycle status across regions, with source-specific normalization and guarded self-healing collectors.
+
+`Next.js  ·  TypeScript  ·  PostgreSQL  ·  Bright Data  ·  Zod`
+
+**[repository →](https://github.com/aniruddha-chaudhari/vantagezero)** · **[live app →](https://vantagezero.vercel.app)**
+
+---
+
+### `02 / NEBULAX` — a pixel arcade universe
+
+```text
+             .       *       .
+       *         .-"""""-.          *
+              .'  ARCADE  '.
+         .   /  ★  ★  ★   \   .
+            |   INSERT COIN |
+         *   \             /       *
+              '._       _.'
+                 '-----'
+```
+
+A retro-styled browser arcade with animated space/pixel aesthetics and multiple games including **BattleDeck, Quizzy, Skatepark Dash and WodBlitz**.
+
+`Next.js  ·  React  ·  Phaser  ·  Framer Motion  ·  Tailwind CSS`
+
+**[enter repository →](https://github.com/aniruddha-chaudhari/nebulax)**
+
+---
+
+### `03 / GEM AI` — chat with memory
+
+```text
+ user ─────► gemini
+   ▲           │
+   │           ▼
+   └──── long-term memory
+          + chat history
+```
+
+A Gemini-powered conversational app with authentication, persisted conversations and **per-user long-term memory** rather than a stateless chat wrapper.
+
+`Next.js  ·  React  ·  TypeScript  ·  Gemini  ·  Neon  ·  Supermemory`
+
+**[repository →](https://github.com/aniruddha-chaudhari/gemai)** · **[live app →](https://gemai.aniruddhadev.in)**
+
+---
+
+## `> cat stack.txt`
+
+```text
+CORE
+├── TypeScript / JavaScript
+├── Python
+├── React / Next.js
+├── Node.js
+└── React Native
+
+DATA + BACKEND
+├── PostgreSQL
+├── MongoDB
+├── Supabase / Neon
+└── Docker
+
+CURRENT RABBIT HOLES
+├── AI agents + LLM systems
+├── real-time systems
+├── browser / game experiments
+└── scraping + data pipelines
+```
+
+## `> git --stats`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aniruddha-chaudhari&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha-chaudhari&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│        CODE • BREAK • LEARN • REPEAT         │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+[LinkedIn](https://linkedin.com/in/aniruddha2704) • [LeetCode](https://leetcode.com/aniruddha-chaudhari) • [Kaggle](https://kaggle.com/aniruddhachaudhari27)
+
+<br/>
+
+`thanks for visiting ~/aniruddha`
+
+</div>
