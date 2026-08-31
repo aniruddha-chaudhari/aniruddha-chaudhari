@@ -44,96 +44,42 @@ Games, real-time systems, browser APIs, scraping, automation and whatever rabbit
 
 # 🚀 Featured work
 
-## 01 — VantageZero
-
-> **Hardware buildability intelligence:** how many units can we actually build today, and which component stops us?
-
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="34%" valign="top">
 
-Vantage watches public distributor and manufacturer pages for **stock, incoming quantity, lead time, price breaks and lifecycle status**.
+### 01 — VantageZero
+**Hardware buildability intelligence**
 
-The interesting part is not scraping the page — it is deciding whether the data can be trusted when the page changes.
+Tracks component stock, pricing, lead times and lifecycle data across suppliers, with validated + self-healing collectors.
 
-- **5 custom collectors** across **3 regions**
-- source-specific normalization into one canonical schema
-- Zod validation before observations are written
-- self-healing collectors with **identity, shape, continuity and collision gates**
-- scheduled collection through GitHub Actions
-- buildability, bottleneck and cross-supplier pricing views
+`Next.js` `Postgres` `Bright Data`
 
-**Stack**  
-`Next.js` `TypeScript` `PostgreSQL` `Bright Data` `Zod`
-
-[**Live app ↗**](https://vantagezero.vercel.app) · [**Repository ↗**](https://github.com/aniruddha-chaudhari/vantagezero)
+[**Live ↗**](https://vantagezero.vercel.app) · [**Code ↗**](https://github.com/aniruddha-chaudhari/vantagezero)
 
 </td>
-<td width="42%" valign="top">
+<td width="33%" valign="top">
 
-### Data flow
+### 02 — 🌌 Nebulax
+**Pixel arcade universe**
 
-```mermaid
-graph TD
-    A[Supplier pages] --> B[Collectors]
-    B --> C[Normalize]
-    C --> D[Validate]
-    D -->|valid| E[(PostgreSQL)]
-    D -->|broken| F[Heal loop]
-    F --> G[4 safety gates]
-    G --> B
-```
+A retro browser arcade with BattleDeck, Quizzy, Skatepark Dash and WodBlitz.
+
+`Next.js` `Phaser` `Framer Motion`
+
+[**Code ↗**](https://github.com/aniruddha-chaudhari/nebulax)
 
 </td>
-</tr>
-</table>
+<td width="33%" valign="top">
 
----
+### 03 — ✦ Gem AI
+**Conversational AI with memory**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Gemini chat with authentication, persisted conversations and per-user long-term memory.
 
-## 02 — 🌌 Nebulax
+`Next.js` `Gemini` `Supermemory`
 
-### Pixel arcade universe
-
-A retro browser arcade built around a strong visual identity rather than a generic game menu.
-
-Includes multiple playable experiences:
-
-- **BattleDeck**
-- **Quizzy**
-- **Skatepark Dash**
-- **WodBlitz**
-
-The UI mixes pixel-art styling, space imagery, parallax motion and interactive transitions.
-
-**Stack**  
-`Next.js` `React` `Phaser` `Framer Motion` `Tailwind CSS`
-
-[**Repository ↗**](https://github.com/aniruddha-chaudhari/nebulax)
-
-</td>
-<td width="50%" valign="top">
-
-## 03 — ✦ Gem AI
-
-### Conversational AI with memory
-
-A Gemini-powered chat application built as a complete product rather than a stateless demo.
-
-- Google authentication
-- persisted chat history
-- streaming AI responses
-- **per-user long-term memory**
-- memory inspection and deletion
-- responsive dark UI
-
-**Stack**  
-`Next.js` `React` `TypeScript` `Gemini` `Neon` `Prisma` `Supermemory`
-
-[**Live app ↗**](https://gemai.aniruddhadev.in) · [**Repository ↗**](https://github.com/aniruddha-chaudhari/gemai)
+[**Live ↗**](https://gemai.aniruddhadev.in) · [**Code ↗**](https://github.com/aniruddha-chaudhari/gemai)
 
 </td>
 </tr>
