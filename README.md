@@ -1,141 +1,180 @@
 <div align="center">
 
-```text
- █████╗ ███╗   ██╗██╗██████╗ ██╗   ██╗██████╗ ██████╗ ██╗  ██╗ █████╗ 
-██╔══██╗████╗  ██║██║██╔══██╗██║   ██║██╔══██╗██╔══██╗██║  ██║██╔══██╗
-███████║██╔██╗ ██║██║██████╔╝██║   ██║██║  ██║██║  ██║███████║███████║
-██╔══██║██║╚██╗██║██║██╔══██╗██║   ██║██║  ██║██║  ██║██╔══██║██╔══██║
-██║  ██║██║ ╚████║██║██║  ██║╚██████╔╝██████╔╝██████╔╝██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:6D28D9,100:0891B2&height=220&section=header&text=Aniruddha%20Chaudhari&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20AI%20systems%20%E2%80%A2%20Products%20%E2%80%A2%20Experiments&descAlignY=58&descSize=16" alt="Aniruddha Chaudhari" />
 
-### `developer // builder // professional rabbit-hole explorer`
+### I build products that sit somewhere between **useful**, **technical**, and **slightly over-engineered**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=building+things+on+the+internet;web+%2F+ai+%2F+games+%2F+experiments;ship+%E2%86%92+break+%E2%86%92+learn+%E2%86%92+repeat" alt="Typing SVG" />
+[**Portfolio**](https://aniruddhadev.in/) · [**LinkedIn**](https://linkedin.com/in/aniruddha2704) · [**LeetCode**](https://leetcode.com/aniruddha-chaudhari)
 
-</div>
-
-```text
-┌─ ~/aniruddha ──────────────────────────────────────────────────────┐
-│                                                                   │
-│  > whoami                                                         │
-│  Aniruddha Chaudhari                                              │
-│                                                                   │
-│  > current_mode                                                   │
-│  building products, experimenting with AI, and chasing ideas      │
-│  that are slightly more complicated than they needed to be.       │
-│                                                                   │
-│  > status                                                         │
-│  [██████████████████░░] shipping...                               │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
-## `> ls ./featured`
-
-### `01 / VANTAGE ZERO` — hardware buildability intelligence
-
-```text
- supplier pages ──► collectors ──► normalize ──► validate ──► postgres
-                       ▲                                │
-                       └──────── self-heal loop ◄──────┘
-```
-
-A supply-chain intelligence system that answers a deceptively simple question for hardware teams: **how many units can we actually build today, and which component stops us?**
-
-Tracks distributor/manufacturer stock, price breaks, lead times and lifecycle status across regions, with source-specific normalization and guarded self-healing collectors.
-
-`Next.js  ·  TypeScript  ·  PostgreSQL  ·  Bright Data  ·  Zod`
-
-**[repository →](https://github.com/aniruddha-chaudhari/vantagezero)** · **[live app →](https://vantagezero.vercel.app)**
-
----
-
-### `02 / NEBULAX` — a pixel arcade universe
-
-```text
-             .       *       .
-       *         .-"""""-.          *
-              .'  ARCADE  '.
-         .   /  ★  ★  ★   \   .
-            |   INSERT COIN |
-         *   \             /       *
-              '._       _.'
-                 '-----'
-```
-
-A retro-styled browser arcade with animated space/pixel aesthetics and multiple games including **BattleDeck, Quizzy, Skatepark Dash and WodBlitz**.
-
-`Next.js  ·  React  ·  Phaser  ·  Framer Motion  ·  Tailwind CSS`
-
-**[enter repository →](https://github.com/aniruddha-chaudhari/nebulax)**
-
----
-
-### `03 / GEM AI` — chat with memory
-
-```text
- user ─────► gemini
-   ▲           │
-   │           ▼
-   └──── long-term memory
-          + chat history
-```
-
-A Gemini-powered conversational app with authentication, persisted conversations and **per-user long-term memory** rather than a stateless chat wrapper.
-
-`Next.js  ·  React  ·  TypeScript  ·  Gemini  ·  Neon  ·  Supermemory`
-
-**[repository →](https://github.com/aniruddha-chaudhari/gemai)** · **[live app →](https://gemai.aniruddhadev.in)**
-
----
-
-## `> cat stack.txt`
-
-```text
-CORE
-├── TypeScript / JavaScript
-├── Python
-├── React / Next.js
-├── Node.js
-└── React Native
-
-DATA + BACKEND
-├── PostgreSQL
-├── MongoDB
-├── Supabase / Neon
-└── Docker
-
-CURRENT RABBIT HOLES
-├── AI agents + LLM systems
-├── real-time systems
-├── browser / game experiments
-└── scraping + data pipelines
-```
-
-## `> git --stats`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aniruddha-chaudhari&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha-chaudhari&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </div>
 
 <br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│        CODE • BREAK • LEARN • REPEAT         │
-│                                              │
-└──────────────────────────────────────────────┘
+### ⚡ Product Engineering
+
+Web and mobile products with real users, real state and the boring-but-important infrastructure around them.
+
+**React · Next.js · React Native · Node.js**
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 AI Systems
+
+Agents, memory, RAG, structured data pipelines and AI features that do more than wrap a chat endpoint.
+
+**Gemini · AI SDK · Vector Search · Agents**
+
+</td>
+<td width="33%" valign="top">
+
+### 🧪 Experiments
+
+Games, real-time systems, browser APIs, scraping, automation and whatever rabbit hole looks interesting next.
+
+**Phaser · WebSockets · Docker · PostgreSQL**
+
+</td>
+</tr>
+</table>
+
+# 🚀 Featured work
+
+## 01 — VantageZero
+
+> **Hardware buildability intelligence:** how many units can we actually build today, and which component stops us?
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+Vantage watches public distributor and manufacturer pages for **stock, incoming quantity, lead time, price breaks and lifecycle status**.
+
+The interesting part is not scraping the page — it is deciding whether the data can be trusted when the page changes.
+
+- **5 custom collectors** across **3 regions**
+- source-specific normalization into one canonical schema
+- Zod validation before observations are written
+- self-healing collectors with **identity, shape, continuity and collision gates**
+- scheduled collection through GitHub Actions
+- buildability, bottleneck and cross-supplier pricing views
+
+**Stack**  
+`Next.js` `TypeScript` `PostgreSQL` `Bright Data` `Zod`
+
+[**Live app ↗**](https://vantagezero.vercel.app) · [**Repository ↗**](https://github.com/aniruddha-chaudhari/vantagezero)
+
+</td>
+<td width="42%" valign="top">
+
+### Data flow
+
+```mermaid
+graph TD
+    A[Supplier pages] --> B[Collectors]
+    B --> C[Normalize]
+    C --> D[Validate]
+    D -->|valid| E[(PostgreSQL)]
+    D -->|broken| F[Heal loop]
+    F --> G[4 safety gates]
+    G --> B
 ```
 
-[LinkedIn](https://linkedin.com/in/aniruddha2704) • [LeetCode](https://leetcode.com/aniruddha-chaudhari) • [Kaggle](https://kaggle.com/aniruddhachaudhari27)
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 02 — 🌌 Nebulax
+
+### Pixel arcade universe
+
+A retro browser arcade built around a strong visual identity rather than a generic game menu.
+
+Includes multiple playable experiences:
+
+- **BattleDeck**
+- **Quizzy**
+- **Skatepark Dash**
+- **WodBlitz**
+
+The UI mixes pixel-art styling, space imagery, parallax motion and interactive transitions.
+
+**Stack**  
+`Next.js` `React` `Phaser` `Framer Motion` `Tailwind CSS`
+
+[**Repository ↗**](https://github.com/aniruddha-chaudhari/nebulax)
+
+</td>
+<td width="50%" valign="top">
+
+## 03 — ✦ Gem AI
+
+### Conversational AI with memory
+
+A Gemini-powered chat application built as a complete product rather than a stateless demo.
+
+- Google authentication
+- persisted chat history
+- streaming AI responses
+- **per-user long-term memory**
+- memory inspection and deletion
+- responsive dark UI
+
+**Stack**  
+`Next.js` `React` `TypeScript` `Gemini` `Neon` `Prisma` `Supermemory`
+
+[**Live app ↗**](https://gemai.aniruddhadev.in) · [**Repository ↗**](https://github.com/aniruddha-chaudhari/gemai)
+
+</td>
+</tr>
+</table>
+
+# 🧰 Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,mongodb,docker,git,github,tailwind&perline=12" alt="Tech stack" />
+
+</div>
 
 <br/>
 
-`thanks for visiting ~/aniruddha`
+| Area | Things I reach for |
+|---|---|
+| **Frontend** | TypeScript, React, Next.js, React Native, Tailwind CSS |
+| **Backend** | Node.js, Express, Python, REST APIs, real-time systems |
+| **Data** | PostgreSQL, MongoDB, Supabase, Neon, vector databases |
+| **AI** | Gemini, Vercel AI SDK, agents, RAG, embeddings, memory |
+| **Infra / tools** | Docker, GitHub Actions, Git, Cloudflare, scraping pipelines |
+
+# 📈 GitHub activity
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniruddha-chaudhari&theme=github_dark" alt="GitHub contribution summary" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddha-chaudhari&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+
+</div>
+
+# 🌐 Find me elsewhere
+
+<div align="center">
+
+[**aniruddhadev.in**](https://aniruddhadev.in/) · [**LinkedIn**](https://linkedin.com/in/aniruddha2704) · [**LeetCode**](https://leetcode.com/aniruddha-chaudhari) · [**Kaggle**](https://kaggle.com/aniruddhachaudhari27)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,55:6D28D9,100:111827&height=110&section=footer" alt="footer" />
 
 </div>
