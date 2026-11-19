@@ -55,53 +55,10 @@ Games, real-time systems, browser graphics, scraping and automation, and whateve
 
 ## Selected work
 
-> **VantageZero** · hardware buildability intelligence
-> Tracks component stock, pricing, lead times and lifecycle data across suppliers, with validated, self-healing collectors.
-> `Next.js` `Postgres` `Bright Data` · [Live ↗](https://vantagezero.vercel.app) · [Code ↗](https://github.com/aniruddha-chaudhari/vantagezero)
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<a href="https://spring-blush.vercel.app"><img src="assets/spring.jpg" alt="Spring" width="100%" /></a>
-
-**Spring**
-
-A Japanese garden diorama in the browser, with seasons, times of day, wildlife and falling petals.
-
-`Three.js` `JavaScript`
-
-[Live ↗](https://spring-blush.vercel.app) · [Code ↗](https://github.com/aniruddha-chaudhari/spring)
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://gemai.aniruddhadev.in"><img src="assets/gemai.jpg" alt="Gem AI" width="100%" /></a>
-
-**Gem AI**
-
-Gemini chat with authentication, saved conversations and per-user long-term memory.
-
-`Next.js` `Gemini` `Supermemory`
-
-[Live ↗](https://gemai.aniruddhadev.in) · [Code ↗](https://github.com/aniruddha-chaudhari/gemai)
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://nebulax-beige.vercel.app"><img src="assets/nebulax.jpg" alt="Nebulax" width="100%" /></a>
-
-**Nebulax**
-
-A retro browser arcade built for a hackathon, with Phaser games and a pixel-art universe.
-
-`Next.js` `Phaser` `Tailwind`
-
-[Live ↗](https://nebulax-beige.vercel.app) · [Code ↗](https://github.com/aniruddha-chaudhari/nebulax)
-
-</td>
-</tr>
-</table>
+- **[VantageZero](https://vantagezero.vercel.app)** ([code](https://github.com/aniruddha-chaudhari/vantagezero)): hardware buildability intelligence. Tracks component stock, pricing, lead times and lifecycle data across suppliers, with self-healing collectors. <sub>Next.js · Postgres · Bright Data</sub>
+- **[Spring](https://spring-blush.vercel.app)** ([code](https://github.com/aniruddha-chaudhari/spring)): a Japanese garden diorama in the browser, with seasons, times of day, wildlife and falling petals. <sub>Three.js</sub>
+- **[Gem AI](https://gemai.aniruddhadev.in)** ([code](https://github.com/aniruddha-chaudhari/gemai)): Gemini chat with authentication, saved conversations and per-user long-term memory. <sub>Next.js · Gemini · Supermemory</sub>
+- **[Nebulax](https://nebulax-beige.vercel.app)** ([code](https://github.com/aniruddha-chaudhari/nebulax)): a retro browser arcade built for a hackathon. <sub>Next.js · Phaser</sub>
 
 More at [aniruddhadev.in/projects](https://aniruddhadev.in/projects).
 
